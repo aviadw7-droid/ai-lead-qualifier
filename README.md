@@ -1,6 +1,6 @@
 # AI Lead Qualifier — Make.com + OpenAI
 
-An automation that qualifies incoming business leads using AI — saving manual review time and ensuring faster responses to the right people.
+An automation that qualifies incoming business leads using AI - saving manual review time and ensuring faster responses to the right people.
 
 ---
 
@@ -10,7 +10,7 @@ Freelancers receive inquiries of varying quality. Manually reading and respondin
 
 ## The Solution
 
-This automation analyzes every new inquiry the moment it arrives, scores it 1–10 using GPT-4o-mini, tags it as **hot / warm / cold**, and sends a personalized email response automatically — all without human intervention.
+This automation analyzes every new inquiry the moment it arrives, scores it 1–10 using GPT-4o-mini, tags it as **hot / warm / cold**, and sends a personalized email response automatically - all without human intervention.
 
 ---
 
@@ -62,11 +62,11 @@ Tested across different inquiry types with accurate classification across all ca
 
 ## Tech Stack
 
-- **Make.com** — automation and workflow orchestration
-- **OpenAI GPT-4o-mini** — lead scoring and classification
-- **Google Forms** — lead intake
-- **Google Sheets** — data logging
-- **Gmail** — automated email responses
+- **Make.com** - automation and workflow orchestration
+- **OpenAI GPT-4o-mini** - lead scoring and classification
+- **Google Forms** - lead intake
+- **Google Sheets** - data logging
+- **Gmail** - automated email responses
 
 ---
 
