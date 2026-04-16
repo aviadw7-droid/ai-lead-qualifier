@@ -10,7 +10,7 @@ Freelancers receive inquiries of varying quality. Manually reading and respondin
 
 ## The Solution
 
-This automation analyzes every new inquiry the moment it arrives, scores it 1–10 using GPT-4o-mini, tags it as **hot / warm / cold**, and sends a personalized email response automatically - all without human intervention.
+This automation analyzes every new inquiry the moment it arrives, scores it 1-10 using GPT-4o-mini, tags it as **hot / warm / cold**, and sends a personalized email response automatically - all without human intervention.
 
 ---
 
