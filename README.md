@@ -52,7 +52,7 @@ Score must be between 1 and 10.
 
 ## Results
 
-Tested across 6 different inquiry types with accurate classification across all cases.
+Tested across different inquiry types with accurate classification across all cases.
 
 - Hot leads received a priority follow-up email within seconds
 - Warm leads received a nurturing response requesting more details
